@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on web development with django
 - 🌱 I’m currently learning more for django framework and IA(love IA)
 - 💬 Ask me about somethings like astrology, tecnology, philosophy, futbol and of course python
-- 📫 How to reach me: *@__pole__* on IG, *@PoleselBrian* on Twitter
+- 📫 How to reach me: *"@__pole__"* on IG, *"@PoleselBrian"* on Twitter
 
 ### More about me:
 
