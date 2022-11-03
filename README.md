@@ -1,11 +1,10 @@
-## Hi there 👋
 
 <!--**AngusCamus/AngusCamus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### A summary:
-- 🔭 I’m currently working on web development with django
-- 🌱 I’m currently learning more for django framework and IA(love IA)
-- 💬 Ask me about somethings like astrology, tecnology, philosophy, futbol and of course python
+- 🔭 I’m currently working on web development with Spring
+- 🌱 I’m currently learning more for Java and Spring Framework
+- 💬 Ask me about somethings like astrology, tecnology, philosophy, futbol and of course java
 - 📫 How to reach me: *"@__pole__"* on IG, *"@PoleselBrian"* on Twitter
 
 ### More about me:
