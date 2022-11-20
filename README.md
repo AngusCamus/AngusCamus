@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on web development with Spring
 - 🌱 I’m currently learning more for Java, Kotlin and Best Practice for development.
 - 💬 Ask me about somethings like astrology, tecnology, philosophy, futbol and of course java
-- 📫 How to reach me: poleselbrian@gmail.com, *"@PoleselBrian"* on Twitter
+- 📫 How to reach me: poleselbrian@gmail.com
 
 ### More about me:
 
