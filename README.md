@@ -3,7 +3,7 @@
 
 ### A summary:
 - 🔭 I’m currently working on web development with Spring
-- 🌱 I’m currently learning more for Java, Kotlin and Best Practice for development.
+- 🌱 I’m currently learning more for Java, Kotlin and Angular/TypeScript.
 - 💬 Ask me about somethings like astrology, tecnology, philosophy, futbol and of course java
 - 📫 How to reach me: poleselbrian@gmail.com
 
